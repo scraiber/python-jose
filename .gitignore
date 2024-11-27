@@ -67,3 +67,6 @@ target/
 
 # VSCode
 .vscode/
+
+# Files in root
+exploit.py
